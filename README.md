@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTJmdXlpYmh0M2d0dzB0NGs4cW12OTgzenh3Z3N4ZGtvNjBna3BmaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q7SKqn3G97xpmfSOvG/giphy.gif" width="70px" height="70px" alt="google dinorunner chracter">
 
-## Hi, there! 👋 <a href="https://github.com/myj456/Mun-Yae-Jin/blob/main/README_korean.md">한국어</a>
+## Hi, there! 👋 <a href="https://github.com/myj456/myj456/blob/main/README_korean.md">한국어</a>
 I`m **Yaejin Mun** a **romantic developer**.
 
 **Why a romantic developer?** <br>
