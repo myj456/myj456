@@ -43,7 +43,21 @@ Because I find meaning in gifting someone ***a little happines*** or ***convenie
 <br>
 
 ## 📒 What I`m learning or doing
-- ???
+- I`m working on a projects related to technology stacks that are widely used in practice.
+  <br><br>
+  **Technology Stack Being Learned**
+  - JWT
+  - CRUD
+  - Exception
+  - Caching(redis)
+  - Spring security
+  - WebSocket
+
+  <br>
+
+  **Project in Process**
+  - Membership bulletin board
+  - Linky
 
 <br>
 
