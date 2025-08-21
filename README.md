@@ -42,7 +42,7 @@ Because I find meaning in gifting someone ***a little happines*** or ***convenie
 
 <br>
 
-## 📒 What I`m learning or doing
+## 📒 What I`m learning or doing - 25.08.21
 - I`m working on a projects related to technology stacks that are widely used in practice.
   <br><br>
   **Technology Stack Being Learned**
