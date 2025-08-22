@@ -89,6 +89,13 @@ Because I find meaning in gifting someone ***a little happines*** or ***convenie
 <br>
 <br>
 
+## TMI
+**I`m documenting my developer journey on **'linked.in'** site.** <br>
+*(Thank you for visiting and giving us your feedback!)*
+
+<br>
+<br>
+
 ---
 <div align=center>
   <a href="mailto:bkspringmyj@gmail.com">
@@ -104,3 +111,4 @@ Because I find meaning in gifting someone ***a little happines*** or ***convenie
 
 <br>
 <br>
+
