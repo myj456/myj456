@@ -71,6 +71,13 @@
 <br>
 <br>
 
+## TMI
+**저의 개발자 여정은 linked.in 사이트에서 기록하고 있어요.** <br>
+*(방문하신 후 피드백해주시면 감사하겠습니다!)*
+
+<br>
+<br>
+
 ---
 <div align=center>
   <a href="mailto:bkspringmyj@gmail.com">
